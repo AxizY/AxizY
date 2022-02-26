@@ -16,3 +16,6 @@ I’m currently learning OpenGL.
 
 #### Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=axizy&show_icons=true&layout=compact&theme=cobalt&hideborder=true)
+
+#### Todo
+  - [ ] Put all my projects together and upload to github.
