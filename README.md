@@ -1,6 +1,7 @@
 ## Hi!!! I'm AxizY!
 
 I’m interested in Computer Graphics 🔺, Low Level Programming 💻, Emulation 📟 and Bots/Automation🤖.
+
 I’m currently learning OpenGL.
 
 **My Discord** -> Winter#8756
