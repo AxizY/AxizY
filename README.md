@@ -11,7 +11,7 @@ I’m currently learning OpenGL.
   - Javascript
 
 #### Image:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axizy&layout=compact&theme=cobalt&hideborder=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axizy&theme=cobalt)
 
 #### Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=axizy&show_icons=true&layout=compact&theme=cobalt&hideborder=true)
