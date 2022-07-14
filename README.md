@@ -1,4 +1,4 @@
-## Hi!!! I'm AxizY!
+## Hi! I'm AxizY
 
 I’m interested in Computer Graphics 🔺, Low Level Programming 💻, Emulation 📟 and Bots/Automation🤖.
 
