@@ -4,8 +4,6 @@ I’m interested in Computer Graphics 🔺, Low Level Programming 💻, Emulatio
 
 I’m currently learning OpenGL.
 
-**My Discord** -> Winter#8756
-
 #### My favorite programming languages:
   - C/C++
   - Python
